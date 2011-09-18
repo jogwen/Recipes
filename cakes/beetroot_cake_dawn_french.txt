@@ -1,6 +1,8 @@
 Mo's Beetroot Cake
 (A Tiny Bit Marvellous, a novel by Dawn French)
 
+Topping: see toppings/beetroot_cake_dawn_french_topping.txt
+
 180g caster sugar
 3 medium eggs
 180g plain flour
