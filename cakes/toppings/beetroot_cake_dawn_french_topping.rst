@@ -18,6 +18,7 @@ Ingredients
 
 Equipment
 ---------
+- sieve
 - bowl that sits in a saucepan for baign marie
 
 Steps
