@@ -1,19 +1,25 @@
+==================
 Mo's Beetroot Cake
+==================
 (A Tiny Bit Marvellous, a novel by Dawn French)
 
 Topping: see toppings/beetroot_cake_dawn_french_topping.txt
 
-180g caster sugar
-3 medium eggs
-180g plain flour
-180g ground almonds
-50g cocoa powder
-1 teaspoon baking powder
-pinch of salt
-200ml sour cream
-1 tsp vanilla extract
-200g raw, peeled and finely grated beetroot
+Ingredients
+-----------
+ - 180g caster sugar
+ - 3 medium eggs
+ - 180g plain flour
+ - 180g ground almonds
+ - 50g cocoa powder
+ - 1 teaspoon baking powder
+ - pinch of salt
+ - 200ml sour cream
+ - 1 tsp vanilla extract
+ - 200g raw, peeled and finely grated beetroot
 
+Steps
+-----
 1. Preheat the oven to 180C. Grease a 20cm tin with vegetable oil and line the base with baking parchment.
 2. Whisk together the eggs and sugar for 5 minutes with electric beaters, until light and fluffy. Add the flour, almonds, cocoa powder, baking powder and salt. Beat to combine.
 3. Beat in the sour cream and vanilla essence. Squeeze out any excess liquid from the grated beetroot and fold into the mixture.
