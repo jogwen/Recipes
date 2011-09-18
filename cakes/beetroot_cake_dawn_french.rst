@@ -3,9 +3,9 @@ Mo's Beetroot Cake
 ==================
 (A Tiny Bit Marvellous, a novel by Dawn French)
 
-Oven temp : 180C 
-Prep time : 20 mins
-Cooking time : 40-50 mins
+- Oven temp: 180C 
+- Prep time: 20 mins
+- Cooking time: 40-50 mins
 
 Ingredients
 -----------
