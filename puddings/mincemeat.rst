@@ -1,17 +1,17 @@
-===
+=========
 Mincemeat
-===
+=========
 (Broadland Vegetable Suet recipe book)
 
 - Makes about 1.1Kg
 
 Equipment
----
+---------
 - Sterilised jars
 - [Large baking tray or casserole dish]
 
 Ingredients
----
+-----------
 - 350g cooking apples, peeled, cored and grated
 - 225g seedless raisins
 - 100g currants
@@ -26,7 +26,7 @@ Ingredients
 - 1 tablespoon brandy or unsweetened fruit juice
 
 Steps
----
+-----
 1. Mix all the ingredients together in a large mixing bowl. Cover and leave in a cool place overnight
 2. [Optionally, place all in baking tray or casserole dish and heat through in the oven to melt suet and stir]
 3. Place into sterilised jars and seal. Allow to stand for 3 weeks before using.
