@@ -1,6 +1,6 @@
-===
+=====================
 Baked Apple Dumplings
-===
+=====================
 (Broadland Vegetable Suet recipe book)
 
 - Serves: 4
@@ -8,7 +8,7 @@ Baked Apple Dumplings
 - Cooking time: 20 + 25 mins
 
 Ingredients
-----
+-----------
 - 350g self-raising flour
 - pinch salt
 - 40g caster sugar
@@ -22,11 +22,11 @@ Ingredients
 - caster sugar
 
 Equipment
----
+---------
 - oiled baking tray
 
 Steps
----
+-----
 1. Sift the flour, salt and sugar into a bowl
 2. Add the suet and rub to breadcrumbs
 3. Add egg and enough water to combine
