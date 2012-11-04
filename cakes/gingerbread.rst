@@ -18,6 +18,8 @@ Ingredients
 - 125g butter or block margarine (cold from fridge)
 - 1 egg
 - 5 tbsp golden syrup
+- some more flour for dredging
+- some more fat for greasing (unless using silicone baking trays)
 
 Equipment
 ---------
@@ -42,14 +44,18 @@ Steps
 - Stir in the egg and then the syrup until the mixture starts to resemble dough
 - Flour your fingers and an area of worktop, and then use your hands to collect
   all the dough together into a ball, and knead it briefly on the worktop until it seems
-  uniform and smooth and stays in a ball.
+  uniform and smooth and stays in a ball. If it's overly sticky at this stage,
+  keep dredging some flour over it and your hands and then kneading it in until
+  you're happier with the consistency.
 - Put the ball back in your bowl, cover and place in the fridge for 15 minutes
-- Use this time to preheat the oven to 180C / 350F / Gas 4 and (if you're not using silicone baking trays) make sure their bases are well greased.
+- Use this time to preheat the oven to 180C / 350F / Gas 4 and grease the base of your baking trays (if you're using silicone baking trays you can skip this) 
 - After 15 minutes, ensure you still have a light covering of flour on your
   worktop, lightly dredge your rolling pin in flour and roll out the dough to
   about 0.5cm thick, then cut into shapes and place in the trays taking care to
   leave at least 1cm gap in between them (the cookies expand during cooking and
-  will all stick together if you're not careful)
+  will all stick together if you're not careful). Re-roll and cut cookies until
+  you run out of dough. I just squish the last little bit flat and bake that one
+  as it is as the cook's perks ;D
 - Bake for 10-14 minutes until golden brown, swapping the top and bottom shelf
   trays around half way for a more even bake.
 - Leave for 10 minutes to solidify slightly before lifting out to finish cooling
