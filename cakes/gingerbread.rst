@@ -11,13 +11,14 @@ solid but deliciously soft in the middle.
 Ingredients
 -----------
 - 350g plain flour
-- 1 tsp bicarbonate of soda
+- 1 tsp bicarbonate of soda [1.5 for vegan]
 - 2 tsp ground ginger
 - 1.5 tsp ground cinnamon
 - 175g soft brown sugar
-- 125g butter or block margarine (cold from fridge)
-- 1 egg
-- 5 tbsp golden syrup
+- 125g block margarine (cold from fridge)
+- 1 egg [none for vegan]
+- 5 tbsp golden syrup [6 for vegan]
+- tap water if necessary
 - some more flour for dredging
 - some more fat for greasing (unless using silicone baking trays)
 
@@ -41,7 +42,8 @@ Steps
 - Now flour your fingers and use them to squish the remaining lumps flat, stir
   them in and then finally rub all the remaining bits of fat into the flour
   mixture until the whole thing resembles fine breadcrumbs.
-- Stir in the egg and then the syrup until the mixture starts to resemble dough
+- Stir in the egg and then the syrup until the mixture starts to resemble dough.
+  Use your hand to sprinkle on some tap water if necessary.
 - Flour your fingers and an area of worktop, and then use your hands to collect
   all the dough together into a ball, and knead it briefly on the worktop until it seems
   uniform and smooth and stays in a ball. If it's overly sticky at this stage,
