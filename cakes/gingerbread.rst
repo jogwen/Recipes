@@ -1,9 +1,10 @@
-===========
-Gingerbread
-===========
+===================
+Gingerbread [vegan]
+===================
 
 - 180C / 350F / gas 4
 - makes enough biscuits to fill two oven shelves
+- notes for vegan gingerbread in square brackets below
 
 These are really tasty cookies, and if you get the baking time right will be
 solid but deliciously soft in the middle.
