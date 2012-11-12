@@ -43,7 +43,7 @@ Steps
 - Now flour your fingers and use them to squish the remaining lumps flat, stir
   them in and then finally rub all the remaining bits of fat into the flour
   mixture until the whole thing resembles fine breadcrumbs.
-- Stir in the egg and then the syrup until the mixture starts to resemble dough.
+- Stir in the egg (if using)0 and then the syrup until the mixture starts to resemble dough.
   Use your hand to sprinkle on some tap water if necessary.
 - Flour your fingers and an area of worktop, and then use your hands to collect
   all the dough together into a ball, and knead it briefly on the worktop until it seems
@@ -63,5 +63,5 @@ Steps
   trays around half way for a more even bake.
 - Leave for 10 minutes to solidify slightly before lifting out to finish cooling
   on a rack
-- Wait until completely cook before decorating
+- Wait until completely cool before decorating
 
